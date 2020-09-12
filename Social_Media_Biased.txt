@@ -1,0 +1,39 @@
+Your Social Media Feed is Biased
+
+Alex Baker | April 15, 2020
+
+A USC Viterbi professor’s new research paper exposes the inherently biased nature of our social media networks.
+
+Kristina Lerman Headshot. (Photo/Courtesy of Jeffrey Fiterman)
+
+Kristina Lerman, a principal scientist at the USC Viterbi School of Engineering Information Sciences Institute (ISI), and her team have found that for most social media users, their feeds expose them to a biased representation of reality.
+
+Recently published in the scientific journal “Nature Communications,” their research paper “Friendship Paradox Biases Perceptions in Directed Networks” highlights how the structure of modern social networks leads to perception bias, or the fact that a person’s connections often skew their perception of how prevalent a trait or belief is in society.
+
+Lerman’s paper shows that when popular people engage in an activity or possess a certain trait, perception bias causes others to perceive this trait or behavior as much more prevalent than it actually is.
+
+“An individual’s perception of a trait is shaped by its local prevalence among his or her friends,” the paper said. “Any trait that is correlated with popularity is likely to be misperceived.”
+
+Lerman and her team didn’t make this discovery by accident. Their new paper builds upon Lerman’s previous research into the structure of social networks. Her past work, which focused on proving certain structural qualities of these networks, laid the foundation for this new study of perception bias.
+
+Perception bias can apply to something as trivial as having red hair or as significant as opinions on vaccination.
+
+“If people see that many within their social circle are against vaccines, they might not vaccinate their own children,” Lerman said.
+
+Few people may hold anti-vaccination opinions in reality. However, if perception bias causes people in certain social groups to perceive anti-vaccination opinions as more prevalent than they actually are, this could have disastrous effects, she added.
+
+Interestingly, it’s likely that perception bias has also played a role in the ongoing COVID-19 pandemic. Lerman said that when popular sports figures and celebrities started testing positive, it may have been the tipping point to convince others of the dangers posed by the disease. Since these public figures are so highly connected and appear in so many social media feeds, the impact of their particular cases was amplified through perception bias.
+
+Perception bias also plays a role in politics. Lerman explained that when political figures target influential people to carry their message, they are using perception bias to make this message appear more popular than it actually is.
+
+Lerman listed Mike Bloomberg, the billionaire media mogul, as an example. He recently poured millions of dollars into advertising his now suspended presidential campaign, and much of that advertising was done through social media influencers. By targeting numerous popular meme pages and paying them to post his ads, Bloomberg took advantage of perception bias, ensuring that people within these meme pages’ social circles perceived his message as widely accepted and liked, even though that didn’t necessarily reflect reality.
+
+For these reasons, Lerman believes that there is value in trying to mitigate perception bias in social networks. She wants social media companies “to reduce that kind of effect that a few of these highly connected people might exert on their followers.”
+
+She added: “Platforms need to be aware that there are many ways in which the service they provide to users can expose them to bias. Twitter, for example, makes suggestions for people to follow, so it can actually diversify the views by making different suggestions.”
+
+As individuals, Lerman said that we can help mitigate the effects of perception bias in a couple of ways. First, we should simply acknowledge that it exists. “People should not trust what they see in social media because it is a biased representation of reality,” she said. In addition, she added that expanding our social media circles to include more people who are not as influential can help to reduce the effects of perception bias.
+
+“We observe our peers to learn social norms, assess risk, or copy behaviors,” the research paper said. “However, these observations can be systematically biased, distorting how we see the world.”
+
+In a society where spreading misinformation is the norm and politicians manipulate social media, Lerman’s research seems especially timely.

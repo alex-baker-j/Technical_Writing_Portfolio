@@ -1,0 +1,33 @@
+USC ISI AND CHLA RESEARCHERS MAKE BREAKTHROUGH IN UNDERSTANDING RARE GENETIC DISORDER
+July 30, 2020
+
+Combined faces of male study participants in each group. Left is control, right is CAH. (Photo/Courtesy of CHLA)
+
+By Alex Baker
+
+Artificial intelligence was used to make an important discovery about Congenital Adrenal Hyperplasia (CAH), a genetic condition that affects hormone levels in the body.
+Researchers at the VISTA (Vision, Image, Speech and Text Analytics) group at the USC Viterbi Information Sciences Institute (ISI) and the Children's Hospital of Los Angeles (CHLA) recently discovered the presence of distinct facial abnormalities in youth with congenital adrenal hyperplasia (CAH), a genetic condition that affects hormone levels in the body.
+
+Using artificial intelligence to analyze facial scans, the team was able to distinguish differences between the facial structure of a healthy individual versus one with CAH.
+
+Affecting 1 in 15,000 Americans in its severe form, CAH can lead to a variety of physical and mental issues including obesity, depression, and abnormalities in the structure of the brain. According to Dr. Mimi Kim, a lead on the project and the co-director of the CAH Comprehensive Care Clinic at CHLA, this discovery unlocks new areas of research that can help us better understand the disease.
+
+"We need to explore why these facial features are different in the context of this condition," she said.
+
+Until now, the link between CAH and facial morphology was unexplored. While certain conditions such as down syndrome lead to obvious facial dysmorphology, the effects of CAH on facial structure are extremely subtle – so subtle that even for specialists in the field, they can go unnoticed in one-on-one clinic sessions with patients. Kim only began to suspect the abnormalities after seeing hundreds of affected individuals together at CAH outreach events. To confirm Kim's suspicions, she partnered with USC's ISI to investigate. Because of the subtlety of the differences and the difficulty involved in taking precise facial measurements by hand, the team used artificial intelligence to assist in the study.
+
+"Our first goal of this project was to find out whether differences in facial morphology can be identified in patients with CAH compared to healthy individuals," said Hengameh Mirzaalian, a machine learning and computer vision scientist at ISI, and member of the CAH research team.
+
+Led by Dr. Wael Abd-Almageed, the principal investigator on the project and research associate professor at the Viterbi Department of Electrical and Computer Engineering, the team used machine learning to train a computer to recognize CAH afflicted individuals by analyzing an image of their face. This was accomplished by first showing the computer many labeled images of faces both with and without CAH. Mirzaalian explained that from these images, the computer was able to pick out subtly distinctive features or patterns that set CAH positive individuals apart from their healthy peers.
+
+In addition to classifying faces as either CAH positive or negative, Mirzaalian said that the computer highlighted the specific features that set the two groups apart.
+
+The computer's ability to accurately classify affected and healthy individuals based solely on their face provided an answer to the primary question posed by this project: Can differences in facial structure be identified in individuals with CAH?
+
+The answer is yes, which, Kim said, is great news for the future study of the disease.
+
+She explained that since testing for CAH at birth is required nationwide, the discovery will not be used to identify or diagnose CAH. Instead, it opens the door for a new area of research.
+
+"When you find these differences, you start embarking on a new set of questions," she said. "What can you learn from this that will let us better understand and treat the condition?"
+
+Understanding the distinct facial dysmorphology that goes along with CAH is an important step towards improving treatment, and learning more about other issues associated with the condition, such as fetal programming and hormonal imbalances. "Studying the link between CAH and facial dysmorphology will give insight into these other areas," Mirzaalian said. "Understanding all these processes is critical and can help to provide better solutions for CAH patients."
